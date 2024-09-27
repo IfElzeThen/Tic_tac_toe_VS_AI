@@ -7,7 +7,7 @@ the easiest way to try a game is to:
 4. run the program to start the game
 
 to make a move, input row and column numbers (0 based) in the console. they should be separated by enter
-
+```
 0
 0
 X| | 
@@ -23,3 +23,4 @@ X| |
  | | 
 -----
  |O| 
+```
